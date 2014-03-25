@@ -9,7 +9,8 @@ class NumeroFeliz(object):
     4² + 9² = 97
     9² + 7² = 130
     1² + 3² + 0² = 10
-    1² + 0² = 1 """
+    1² + 0² = 1 
+    fonte: http://dojopuzzles.com/problemas/exibe/numeros-felizes/"""
 
     def retorna(self, numero):
         feliz = 0
